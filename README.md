@@ -6,6 +6,6 @@
   
   ---
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wacav&exclude_repo=tgd_custom&theme=dracula&hide=css,html&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/api?username=wacav&exclude_repo=tgd_custom&theme=dracula&hide=css,html&layout=compact"/>
   
 </div>

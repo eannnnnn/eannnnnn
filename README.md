@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&duration=2000&pause=10000&color=7DF7BF&vCenter=true&width=800&lines=Hi+i'm+Ean.+I'm+currently+working+as+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&duration=2000&pause=5000&color=7DF7BF&vCenter=true&width=800&lines=Hi+i'm+Ean.+I'm+currently+working+as+Front-End+Developer)](https://git.io/typing-svg)
 
 ### Language and Tools
 
